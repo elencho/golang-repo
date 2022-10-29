@@ -3,3 +3,4 @@ build:
 
 run:
 	docker run --rm -p 8888:8080 gdg-kutaisi
+	
